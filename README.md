@@ -13,3 +13,6 @@ hoek node module before 5.0.3 or 4.2.1 suffers from a Modification of Assumed-Im
 
 package-lock.json update suggested:
 hoek ~> 5.0.3
+
+
+$ cd Documents/code/angular-rails/freelance-camp-fe
